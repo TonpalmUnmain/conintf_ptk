@@ -11,8 +11,8 @@ setup(
     author="Your Name",
     author_email="your.email@example.com",
     description="Reusable async console interface with customizable banner and commands",
-    url="https://github.com/yourusername/conintf_ptk",
-    license="MIT",
+    url="https://github.com/TonpalmUnmain/conintf_ptk",
+    license="GNU",
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
