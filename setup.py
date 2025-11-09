@@ -12,7 +12,7 @@ setup(
     author_email="your.email@example.com",
     description="Reusable async console interface with customizable banner and commands",
     url="https://github.com/TonpalmUnmain/conintf_ptk",
-    license="GNU",
+    license="GPLv3",
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
