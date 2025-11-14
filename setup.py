@@ -10,7 +10,7 @@ setup(
     python_requires=">=3.8",
     author="Warat Thongsuwan",
     author_email="jimnd55512@gmail.com",
-    description="Reusable async console interface with customizable banner and commands",
+    description="Lightweight async console interface wrapper around prompt_toolkit",
     url="https://github.com/TonpalmUnmain/conintf_ptk",
     license="GPLv3",
     classifiers=[
